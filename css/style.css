@@ -1,0 +1,25 @@
+:root{
+    --branding-color: #6C63FF;
+}
+
+
+h1{
+    font-family:'Playfair Display', serif;
+} 
+h5{
+    font-family:'Poppins', sans-serif;
+   
+}
+p{
+    font-family:'Poppins', sans-serif ;
+    font-weight:lighter;
+}
+.poppins-regular{
+    font-family:'Poppins',sans-serif;
+    font-weight: bold;
+}
+.btn-branding{
+    background-color:var(--branding-color);
+    color: aliceblue;
+    border-radius: 4.5px;
+}
