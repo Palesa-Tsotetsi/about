@@ -23,3 +23,7 @@ p{
     color: aliceblue;
     border-radius: 4.5px;
 }
+.container-fluid img{
+    width: 100px;
+
+}
